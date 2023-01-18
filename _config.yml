@@ -2,8 +2,8 @@ favicon: /img/favicon.png
 # Change to your profile picture
 avatar: /img/avatar.jpg
 # if author sets in hexo_config, this string doesn't work
-author: 'Jason'
-author_bio: 'Your biography can be writed down here.'
+author: 'Yijian Pei'
+author_bio: 'Xidian University.'
 
 since: 2020
 
